@@ -1,1 +1,7 @@
 always need git init
+
+do git add "filename" if applicable
+
+do git commit with message if you want -m "message"
+
+do git push origin master (w/ a -u?)
